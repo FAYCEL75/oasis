@@ -1,6 +1,6 @@
 [submodule "web"]
 	path = web
-	url = git@hf.co:spaces/oasisorg/oasis-web
+	url = https://huggingface.co/spaces/oasisorg/oasis-web
 [submodule "mlflow"]
 	path = mlflow
-	url = git@hf.co:spaces/oasisorg/oasis-mlflow
+	url = https://huggingface.co/spaces/oasisorg/oasis-mlflow
